@@ -2,7 +2,7 @@ title: "Blog Title"
 author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 baseurl: "" # keep it empty if using GitHub Pages with a custom domain or user/organization site
-url: "https://ych17.github.io" # your GitHub Pages URL
+url: "https://chen-6647.github.io" # your GitHub Pages URL
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
